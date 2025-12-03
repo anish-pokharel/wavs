@@ -1,0 +1,25 @@
+ * {
+     margin: 0;
+ }
+
+ div {
+     border: 1px solid rgb(255, 0, 0);
+     color: black;
+     background-color: red;
+ }
+
+ .divdesign {
+     color: green;
+     background-color: yellow;
+ }
+
+ #div1 {
+     color: yellow;
+     background-color: green;
+ }
+
+ /* div{
+            background-color:#ddf;
+            color: red;
+            font-size: 30px;
+        } */

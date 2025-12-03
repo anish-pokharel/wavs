@@ -1,0 +1,43 @@
+/* universal selector  */
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: green; */
+}
+/* type/tag selector  */
+div{
+    color: blue;
+}
+p{
+    font-size: 16px;
+}
+
+/* class selector */
+.button{
+    background-color: black;
+    color: white;
+}
+#idbutton{
+    background-color: green;
+    color: red;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+    font-size: 200px;
+}
+/* .button:active{
+
+} */
+ h1, h2{
+    color:green
+ }
+
+
+
+
+/* attribute selector
+combinators (Relationship selector)
+child selector
+General Sibling Selector
+*/
